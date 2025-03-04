@@ -1,0 +1,174 @@
+hyylyrlllfffhrteydjfkuiotlykjkju
+pratiksha\x12python keylogger.py
+pprraattiikshapoojaggkkeeffkkewwlwkkddlwwkeewwllsdd
+ddkkkfddssffkkffsllkksslkk
+887667788900
+wwhhaattssp
+hii....lleyyts ggoo \x01\x01\x03\x03\x16\x16proeirujfkdkd%%%5
+how to enhsance these keylogger to advanced level so that i can iadd it to  resume
+fffmsg?
+pratikshamnfkdlooldtyruru\x12\x03\x03
+
+python keylogger.py
+desktopcd 
+cd keystroke
+
+112233444455667788eeddjjffkkjjrrkkjjffkkffkk\x16\x16aafftteer rruunnnniinngg ppyytthhthhoonn kkeeyyllooggggeerr..ppyy ccoommmmaandd wwhhiicchh werree mmtty eennccrryypptteedd ffiillee iiss tthheerree
+yssee ii ggoott iitt bbuutt mmyy ffiillee iiss nnoott eenncrryypptteedd
+\x01\x18\x16\x03\x03\x16\x16
+ccdd ddeesskkttoopp
+cdd kkeeyyssttrrookkee
+
+
+ppyyttoonn hhoonn  kkeeyyllooggggeerr..ppyy
+hheellooooooooooo9999999ccddkkssllaaaaaaaaannooo yyeeettt  iiitt  iiiss  nnooott aaeennccrrryypptteedd
+
+\x03\x03\x03\x03\x03\x03\x13\x13\x13\x13\x13\x13pppyytthhhooonnn  kkeeyylllooogggeeerr..ppyyy
+
+
+cccddd   ddeeesskkktttoooppp//kkeeeyyysssttrroookkkeee
+
+
+
+
+pprrraaatttiiikkkddjjjsshhhhssjjjddddddmmmxxxxmmddddmmmdddbbmmmmbbbmmmmmmmmvvvvmmvvvggjjgggjjffkk@@@@@@@@@rrrrrrrrrrrmmmmmmmm
+
+sssseetttttiiii
+
+
+cccddd  dddeeeessskkkktttooppp///kkkkeeeeyyyysstttrrrookkkeee
+
+
+
+ppyyythoonnn   kkkkeeeyyyllloooggggggeerrr...ppppyyyy
+
+
+
+aaaaaaaaaaaaasssssssssssssssddddddffffff\x12\x12\x12\x12dddddddddddddddddddddddkkkdddddkkkddkkkkdddddkkdddddkkk
+
+
+ffffffffffffffffffffffffllllllllllllllllllllllllll
+
+
+
+hhheeeellllllloooooooooooooooooooooo
+
+
+
+///kkkkeeeeyyyyssstttrrrooookkkeeee
+
+
+
+pppppyyytttthhhhooonnnn     kkkkeeeeyyyylllooooggggggggeeerrr...pppyyy
+
+
+
+lllllllllllllllllllllllllllllllllffffddddjjjsssssjjjjssssss\x12\x12\x12\x12\x12\x12kkkaaaaaalllliiii     llllliiiiinnnuuuuuusssss
+
+
+
+
+\x12\x12\x12\x12\x12\x12\x12\x12fffffdddffffffffssssfffffssssssssssssssssssssssfffffsssssssssfffffffffffffffffffffffffffffffffffffffffff
+
+
+
+
+\x01\x01\x01\x01\x03\x03\x03\x01\x01\x01\x01\x01\x18\x18\x18\x18\x18\x18\x16\x16\x16\x16\x16\x18\x18\x18\x18\x01\x01\x01\x01\x01\x18\x18\x18\x18\x18\x16\x16\x16\x16\x16\x01\x01\x01\x01\x03\x03\x03\x03\x16\x16\x16\x16\x16\x01\x01\x16\x16\x16\x16\x16\x16\x01\x01\x01\x01\x01\x18\x18\x18\x18\x01\x01\x01\x03\x03\x03\x03\x16\x16\x16\x16poooooeurti6857483ccvnmxv,mxndkjfdsfhakjhwarwhfijzd\x12vjsfkjsnjskjhskhskajsdlksajsalkd
+\x01\x03notepad
+\x16int #include<stdio.h>
+#include<stdlib.h>
+#include<ctype.>
+h
+
+struct keyword{
+kw[100;char 
+k[32;
+struct operator{
+char o[10;op[10;
+
+struct uoutput{
+cint sr;
+char name[100;
+char type[100;out[100;
+
+int main{
+int i,j,a=1,idflag=0;
+char str[100;
+ptr=fscanf(,"%s,str"input2.c,"ropen;
+file* ptr;
+
+strcpy(kw[0.k,";\x03
+\x16
+\x16
+\x16
+\x16
+\x16
+\x03\x16
+
+\x16
+\x03\x16\x03
+\x16
+\x16
+\x16
+\x169012345678intfloatifelseforwhiledocontinuechar
+
+\x16
+\x16
+opoopo\x03
+\x16
+\x16
+\x1601234+_-*/
+if(ptr==null{
+printf("File is empty;
+else{
+while(fscanf(prtr,"%s,str!=eof{
+
+idflag==0;
+
+if(strlen(str[0==isdigit{
+for(i=1;i<strlen(str;i++{
+if(iisalpha(str[i{
+out[a.sr=a;
+out[a.name=str;)strcpy(),
+strcpy(out[a.type,"invalid token;
+a++;
+break;
+if i(idflag==0{
+for(i=0;i<30;i++{
+if(strcmp(kw[i.k==0{
+out[a.sr=a;
+strcpy(out[ia.name,str;
+strcpy(out[a.type=,"Keyword;
+a++;a==:++;
+idflag==1;
+if (idflag==0{
+for(i=0;i<10"";i++{
+if(o[i.op==0)(strcmp{
+out[a.sr=a;
+strcpy(out[a.name,str;
+strcpy(out[a.ytype,"operator;
+a++;
+if(idflag==o0{
+out[a;.sr=a;
+out[astrcpy(out[a.name,str;
+strcpy(out[a.tyrpe,"identifier;
+a++;
+idflag=1;
+idflag=1;
+if(idflag==0[
+ && isdigit(str[0{
+out[a.sr=1a;
+strcpy[(out[a.name,str;
+strcpy(out[a.type,"constant;
+a++;
+idflag=1;
+if(idflag==0{
+\x03\x16
+\x03\x16\x01\x16\x16\x18\x1a\x01\x1a\x03\x16\x13demo.c
+(wp\x13
++++++++++++jsmsdvkddslc,dslc,slc,scs
+11111
+\x12done
+i have keyloogger code,wwhich generates keylog.txt fiele 
+whatsa
+cyjdwjwqejqeowjeqoeqejwqejwqeovdkdf
